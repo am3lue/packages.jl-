@@ -1,3 +1,3 @@
 ```Readme
-**How To Install **
-*First:*
+git clone https://am3lue/packages.jl-/figlet
+```
